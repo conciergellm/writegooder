@@ -1,0 +1,76 @@
+WRITEGOODER: HOW TO WRITE FOR ME
+
+Use this method whenever you write or rewrite something I will publish or send under my name (a post, an article, a forum reply, an email, a product page). Not for everyday answers.
+
+Why: you pick the most common wording at every step, and you write as nobody, to everybody, wanting nothing from the reader. People hear that in two lines. Rewriting doesn't fix it. So write it once, from notes, as me talking to one person, and after that only mark and repair single sentences.
+
+RULES THAT ALWAYS HOLD
+- Invent nothing. Facts come from what I gave you. What I think, expected, saw or want comes only from me. If it is missing, ask me or leave a gap like [what did you expect?].
+- Write each step down before the next one.
+- After the text exists, never rewrite it freely. Only cut, move, or redo one sentence from its note.
+- One round of repair, then stop.
+
+IF I ALREADY SAID IT MYSELF (a voice note, a rough paragraph): keep my words. Only cut filler and repeats, put things in order, join sentences, fix punctuation and mishearings. Don't swap my words for better ones and don't add sentences. Then do steps 1, 4 and 5.
+
+STEP 1: SETUP. Write this block and mark each line "told" or "guessed".
+OWNER: who is saying this, what I have to do with it, and whether I say "I" or "we"
+THING: what exactly I am looking at
+LISTENER: one person in one place, what they know, what they doubt
+STARTS WITH: what is already in their head when they begin reading (their question, the title, the thread)
+WHERE: where it will be read and how long things are there
+INTENTION: what I want them to do or decide afterwards ("to inform" doesn't count)
+ANGLE: the main thing I want them to take away
+If a line about what I think or want is guessed, ask me. At most three questions, once. Good ones: what did you expect and what surprised you, what did you see happen, what do you want the reader to do.
+
+STEP 2: NOTES. A numbered list of fragments, never finished sentences. Four kinds:
+F = a fact (given, or worked out by arithmetic)
+T = a take: what I make of a fact (what I expected, what surprised me, what I changed, what I'd tell someone, what I can't explain)
+W = witness: something only a person who was there could report
+Q = my exact words, kept exactly
+R = reasoning you work out from the facts: the answer to what the listener asked, a recommendation, a likely cause. Say it as reasoning ("on our tests", "as far as we can tell"), never as certainty, and never about what I felt, expected or saw.
+T, W and Q come only from me. If I gave you none, carry the piece with R notes, keep it short, and tell me afterwards that nothing in it is my own view. Mark each note A (the listener must have it), B (supports an A) or C (true, and they don't need it).
+
+STEP 3: WRITE IT AS ME.
+Choose: A notes get their own sentence. B notes hang off an A as a clause. C notes get a few words, a table cell, or nothing. This is why a person's writing is uneven. If I gave you few takes, write a short piece. Never stretch, and never make up a take.
+Open: the first sentence has two halves. First, something the listener already has: the subject, named the way they would name it. Second, the most important new thing about it. If they asked a question, their question is the first half, so start with the answer (yes or no first, if that is what they asked, with what it rests on). No hook, no scene, no question. Don't open with my point alone and no context, and don't open with paragraphs of background. Say who I am first only if the point depends on it.
+Talk: the listener asks, I answer out loud, two sentences at most per answer. First the question the opening answers. Second their strongest doubt. Then what they would ask next: What did you expect? Why did that happen? How do you know? What did you see? What don't you know? What do you want from me? After each sentence, note which notes it came from, like [F3, T1].
+Each sentence:
+- Where there is a take, build the sentence on the take and hang the fact off it.
+- No note behind it means it is filler. Delete it.
+- If it could sit unchanged in a piece about another subject, put a detail in it or delete it.
+- A person does something. "We ran the tests", not "the tests were conducted".
+- Known before new: never use a name or a thing before it has been introduced.
+- "So" and "because" only when a note says why.
+- Don't drift between "I" and "we".
+- A short sentence is fine when it carries a fact or a take.
+- Say no more than the notes say. Numbers match exactly. Check "today" and "by Wednesday" against the day it is sent.
+- Don't describe back to the listener something they lived through. Use their word for a thing, not my jargon.
+- No "honestly", no jokes, no slang, no pretend chattiness.
+Tables: real numbers go in a table. Prose never reads a table back. It says what I make of a row.
+Join: remove the questions. Add only short joining words (and, but, so, because, although, since, when). No new sentences. Move a whole sentence if "that" or "this" would point at something far away. Break paragraphs where the subject changes and let them be different sizes. Check: the first sentence of each paragraph, read alone, should give the piece in small.
+End: the last sentence is the last thing the listener needs. If it asks for something, name exactly what. If the piece is complete without its last sentence, delete it.
+Title or subject line: a plain label, written last. Not a sentence.
+
+STEP 4: READ IT AS THE LISTENER. Read from the top as that one person and answer in writing: Who is talking? What do they want, and could I do it? Where did I not know yet what they meant? Which sentences did I read twice? Which would nobody say aloud? What didn't I need? What do I still need? Is there anything only someone who was there could have told me? Are all the sentences the same length? If "who is talking" or "what they want" doesn't match the setup, choose the notes again, once.
+
+STEP 5: REPAIR, ONE ROUND. Mark the sentences step 4 named, and any that show these habits:
+- em dashes, or a colon or semicolon used to pause before a payoff
+- "it's not X, it's Y", "X, not Y", "not just A but B", "rather than"
+- two matched sentences where the first only sets up the second
+- three of anything because three sounds finished
+- a short fragment placed for effect
+- a question asked so I can answer it
+- a thing doing a person's job ("the table lives on our site")
+- announcing ("it's worth noting", "here's what we found", "let's break it down")
+- telling the reader what they think ("you might be wondering", "surprisingly")
+- an "-ing" tail that comments on its own sentence (", highlighting the need for")
+- "serves as", "stands as", "boasts", "offers" for "is" or "has"
+- a verdict line ("that's what actually matters", "and that matters")
+- stock words: delve, leverage, unlock, elevate, streamline, seamless, robust, crucial, pivotal, landscape, journey, testament, navigate, quietly, genuinely, truly
+- bold lead-ins, a header over every paragraph, bullets where there is a story
+- openers and closers ("great question", "I hope this finds you well", "in short", "hope this helps", "let me know if")
+For each marked sentence: cut it (or the half nobody needed), or cover it and answer its question again from its notes, or move it. Don't rephrase the old wording. If the reader needs something that is in no note, don't write it: ask me. A blunt or spoken sentence is fine unless it can be misread. Don't fix my grammar to make it proper.
+
+HAND OVER. Give me the final text only, with no note tags. After it, in a few lines: what you guessed, the one or two questions whose answers would improve it most, and any sentence you still doubt. Don't list what you changed.
+
+(WriteGooder 2.0, free, from the makers of Concierge LLM: conciergellm.com/writegooder)
