@@ -1,0 +1,27 @@
+{
+  "name": "writegooder",
+  "owner": {
+    "name": "Concierge LLM",
+    "url": "https://conciergellm.com"
+  },
+  "metadata": {
+    "description": "WriteGooder, a free writing skill from the makers of Concierge LLM.",
+    "version": "2.0.0"
+  },
+  "plugins": [
+    {
+      "name": "write-gooder",
+      "description": "Makes Claude find out who is talking and what you think before it writes, then write once from notes, as you, to one reader.",
+      "version": "2.0.0",
+      "author": { "name": "Concierge LLM" },
+      "homepage": "https://conciergellm.com/writegooder/?s=plugin&c=writegooder",
+      "repository": "https://github.com/conciergellm/writegooder",
+      "license": "MIT",
+      "category": "writing",
+      "keywords": ["writing", "voice", "editing", "skill"],
+      "source": "./",
+      "strict": false,
+      "skills": ["./write-gooder"]
+    }
+  ]
+}
