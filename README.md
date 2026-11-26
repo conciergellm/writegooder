@@ -10,7 +10,14 @@ The same post opening, from the same test results, written by the same model:
 
 ## Install
 
-**Claude Code or Codex**
+**Claude Code**, from inside Claude Code:
+
+```
+/plugin marketplace add conciergellm/writegooder
+/plugin install write-gooder@writegooder
+```
+
+**Codex, or Claude Code without the plugin system**
 
 ```
 git clone https://github.com/conciergellm/writegooder
