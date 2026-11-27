@@ -4,8 +4,8 @@
 Usage: python flag_habits.py <file> [more files]
 
 This is a net, not a judge. It finds dashes, bold lead-ins, header count,
-contrast patterns, very short sentences, stock words and a few openers and
-closers. It cannot hear a sentence, so a clean result does not mean the text
+contrast patterns, very short sentences, stock words, a few openers and
+closers, and stock joke shapes. It cannot hear a sentence, so a clean result does not mean the text
 sounds like a person, and a flag is a place to look, not always a fault.
 The exit code is always 0. Flags are places to look, not failures.
 """
@@ -40,6 +40,11 @@ CLOSERS = (
 CONTRAST = (
     r",\s+not\s+\w+|\bnot just\b|\bnot only\b|\bisn'?t (?:just |about )?[^.?!]{1,60}[.;,]\s*it'?s\b|"
     r"\bless about\b|\brather than\b|\bas opposed to\b|\bmore than just\b"
+)
+JOKE = (
+    "plot twist|said no one ever|has entered the chat|tell me you'?re .{1,30} without telling me|"
+    "we love to see it|the audacity|chef'?s kiss|no cap|it'?s giving|bestie|living rent.free|"
+    "main character|i'?m not crying|my wallet is crying"
 )
 NO_SUBJECT = r"^(?:Fewer|Most|Others|Some|The rest|Many|Few|The same goes)\s+(?!of\b)[a-z]+"
 
@@ -141,6 +146,7 @@ def check(path):
             ("telling the reader what they think", r"\b(?:" + READER + r")"),
             ("opener", r"\b(?:" + OPENERS + r")"),
             ("closer", r"\b(?:" + CLOSERS + r")"),
+            ("joke shape or borrowed slang", r"\b(?:" + JOKE + r")"),
         ):
             for m in re.finditer(pat, plain, flags=re.I):
                 flag(i, name, plain[max(0, m.start() - 30): m.end() + 30])
