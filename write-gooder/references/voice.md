@@ -56,7 +56,7 @@ With the person's yes, save the card as `voice_card_<name>.md` so the next piece
 
 ## Level 3: no samples
 
-Write as a plain, careful person saying it across a table to the listener. Shortened words as in speech. No slang and no performance.
+Write as a plain, careful person saying it across a table to the listener. Shortened words as in speech. No slang you haven't heard from them, and no performance. For a group chat or friends, that person is texting a friend: short, loose, and funny if the piece is meant to be, but in their own plain words.
 
 Say at hand-over that this is what you did, and that a voice note or a few samples would let the next one sound like them.
 

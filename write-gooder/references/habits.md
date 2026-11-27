@@ -39,6 +39,9 @@ Shape habits
 26. The flat report
 27. Sure about everything
 
+Humour habits
+28. The joke shape
+
 ---
 
 ## Sentence habits
@@ -391,3 +394,21 @@ Also (article): We only have that figure for those two.
 People who did the work know exactly where their knowledge stops and say it once, plainly, in the place it applies. Don't guess to fill the gap, and don't spread soft hedges over the things you do know.
 
 Neighbour: a disclaimer paragraph at the end ("Of course, your results may vary").
+
+---
+
+## Humour habits
+
+### 28. The joke shape
+
+Spot it: a joke built from a template with the subject dropped in. "Plot twist:", "said no one ever", "X has entered the chat", "my wallet is crying", "tell me you're X without telling me", "we love to see it", "not me doing X", "the audacity", "this is fine", a pun on the subject's name, a list of three where the third is the joke, a fake headline, and slang the owner never uses ("no cap", "it's giving", "bestie", "slay"). Also a joke that explains itself, a "lol" or "😂" after its own punchline, and a run of jokes where every line is one.
+
+Before (a friend posts a photo of the burnt lasagne they made for their in-laws): Plot twist: the lasagne was the real guest of honour 😂 Chef's kiss, bestie!
+
+After: did they eat the corner piece or did you hide it
+
+The before would work under any photo of any burnt dish. The after plays on the one thing in this photo, a black corner, and on the in-laws, and it's how a friend writes to a friend. A joke a person makes is about something only this post has.
+
+Fix: cut the shape and look at the post again. Find the detail that is odd, sad or too much, and say the owner's reaction to that, made bigger or smaller than it was. If nothing in the post or the notes is funny, write the plain reply and say at hand-over that you had nothing to joke about.
+
+Neighbour: the same shape with fresher words. A new catchphrase is still a catchphrase.

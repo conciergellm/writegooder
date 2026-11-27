@@ -104,7 +104,13 @@ You may add a question that isn't in the set if this listener would plainly ask 
 
 **Don't say more than the notes.** If a note says "about 2 minutes" and doesn't say per job or in total, the sentence doesn't say either. Numbers in the text match the notes exactly.
 
-**Don't act human.** No "honestly", no "look,", no jokes, no typos, no made-up aside. A person writing carefully doesn't sound like that.
+**Joke when the piece is meant to be funny.** That is when the owner asks for funny, or when the place and the people call for it (a group chat, a reply to a friend's post, a toast) and the owner talks that way. Don't add a joke to a forum answer or a work email to seem warm.
+
+A joke needs a note like any other sentence. A person's joke plays on something specific: a detail in the post they are answering, something this group knows, or the owner's real reaction made bigger or smaller than it was. A model's joke is a familiar joke shape with the subject dropped in, and readers spot that faster than any phrase. So the swap test is strictest here. If the joke would still work under a different post, it's a stock joke. Cut it, and find the detail it should have been about. If the joke needs shared history you don't have, ask for it. Say the joke once, plainly, and don't explain it or point at it.
+
+**Slang only if it's theirs.** Slang, swearing, abbreviations and lower case come in when the owner's samples, their `Q` notes or the thread they're answering use them. Never add slang to sound young or relaxed. Borrowed slang is the costume readers notice first, and it fools only the readers who weren't paying attention.
+
+**Don't perform.** No "honestly", no "look,", no typos, no made-up aside. A sentence put there to show a personality reads as a costume, in a serious piece and a funny one alike.
 
 ## 6. Tables and lists
 
@@ -152,5 +158,7 @@ Written last, from the notes, and only if the piece has one (a reply has none). 
 **Product page.** The listener is deciding whether this is for them. Old half: the problem in their words. New half: what this does about it. Then what it costs them in money and effort, what it can't do, and how to get it. Features go in a list, and every claim has a fact note behind it.
 
 **Social post.** One point. The opening rule matters most here because there is only an opening. No hashtags or emoji unless the owner uses them.
+
+**Group chat, or a reply to friends.** One to three lines. The post they're answering is the old half, so don't restate it. React to it. No greeting, no sign-off, no paragraph. Write the way the group writes: their punctuation, their capitals, their emoji or none. The setup and notes can be a few lines: LISTENER is the group, STARTS WITH is the post, and the notes are the details in it and anything the owner told you about these people. When asked for options, give three to five that each play on a different detail or take a different line on it, such as agreeing far too hard, a flat understatement, or a callback the group would get. One joke reworded five times is one option. In the hand-over, say in a few words what each option plays on, so the owner can pick the one that fits the group.
 
 **White paper or other long document.** Run the Talk step once per section, each with its own question from the listener. Section headers are labels. The summary at the top follows the opening rule for the whole document: what the reader already knows about the problem, then the one new thing this paper shows. Say plainly what is built and what is only planned, and keep them in different sections. Evidence is given with how it was measured and how small the sample was.
