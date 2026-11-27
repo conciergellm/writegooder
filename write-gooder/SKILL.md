@@ -1,11 +1,11 @@
 ---
 name: write-gooder
-description: WriteGooder. Write prose that sounds like a person said it. The text is written once, from notes, as one person talking to one other person, then read by a fresh listener and repaired a sentence at a time. Use this whenever you write or rewrite anything a person will publish or send under their own name, such as an article, blog post, Reddit or forum reply, email, newsletter, social post, product page, listing, bio, cover letter or white paper, even if they don't ask for a "human" voice. Also use it whenever someone says a text sounds like AI, sounds generated, robotic, generic, salesy or "not like me", or asks to humanize it, make it natural, or make it sound like a person wrote it. Not for code, reference documentation, legal text or everyday answers in chat.
+description: WriteGooder. Write prose that sounds like a person said it. The text is written once, from notes, as one person talking to one other person, then read by a fresh listener and repaired a sentence at a time. Use this whenever you write or rewrite anything a person will publish or send under their own name, such as an article, blog post, Reddit or forum reply, email, newsletter, social post, product page, listing, bio, cover letter, white paper, group chat message or reply to friends (including funny replies and joke options), even if they don't ask for a "human" voice. Also use it whenever someone says a text sounds like AI, sounds generated, robotic, generic, salesy or "not like me", or asks to humanize it, make it natural, or make it sound like a person wrote it. Not for code, reference documentation, legal text or everyday answers in chat.
 ---
 
 # WriteGooder
 
-Version 2.0, 25 November 2026.
+Version 2.1, 27 November 2026.
 
 ## Why a model sounds like a model
 
