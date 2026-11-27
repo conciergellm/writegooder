@@ -33,7 +33,7 @@ Then run `Install_WriteGooder.cmd` on Windows or `sh install.sh` on a Mac or Lin
 
 Before writing, it notes who is speaking and the one person who'll read it, and it asks you up to three questions where it would otherwise have to guess what you think. It's told never to make up a view, a story or a feeling for you. Then it writes from its notes as you talking to that reader, and a sentence it can't trace back to a note gets deleted. A fresh copy of the model reads the result as the reader, and the sentences it trips on are fixed one at a time. We don't let it rewrite the whole piece, because every time it did, the AI sound came back.
 
-A list of 27 patterns we collected from our own drafts and from public lists is only used at the very end, as a cleanup. Two scripts check the draft along the way. They need Python 3 and nothing else, and the skill still works without them, minus those checks.
+A list of 28 patterns we collected from our own drafts and from public lists is only used at the very end, as a cleanup. Two scripts check the draft along the way. They need Python 3 and nothing else, and the skill still works without them, minus those checks.
 
 ## What to expect
 

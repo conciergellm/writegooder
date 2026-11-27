@@ -2,7 +2,7 @@
 setlocal
 title Install WriteGooder
 echo.
-echo  WriteGooder 2.0
+echo  WriteGooder 2.1
 echo  Makes Claude and other assistants write like a person.
 echo  From the makers of Concierge LLM: conciergellm.com/writegooder
 echo.

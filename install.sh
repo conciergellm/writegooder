@@ -1,12 +1,12 @@
 #!/bin/sh
-# WriteGooder 2.0 installer for Mac and Linux.
+# WriteGooder 2.1 installer for Mac and Linux.
 # From the makers of Concierge LLM: conciergellm.com/writegooder
 set -e
 HERE="$(cd "$(dirname "$0")" && pwd)"
 SRC="$HERE/write-gooder"
 
 echo
-echo " WriteGooder 2.0"
+echo " WriteGooder 2.1"
 echo " Makes Claude and other assistants write like a person."
 echo
 

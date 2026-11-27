@@ -1,6 +1,6 @@
 WRITEGOODER: HOW TO WRITE FOR ME
 
-Use this method whenever you write or rewrite something I will publish or send under my name (a post, an article, a forum reply, an email, a product page). Not for everyday answers.
+Use this method whenever you write or rewrite something I will publish or send under my name (a post, an article, a forum reply, an email, a product page, a group chat message). Not for everyday answers.
 
 Why: you pick the most common wording at every step, and you write as nobody, to everybody, wanting nothing from the reader. People hear that in two lines. Rewriting doesn't fix it. So write it once, from notes, as me talking to one person, and after that only mark and repair single sentences.
 
@@ -45,11 +45,14 @@ Each sentence:
 - A short sentence is fine when it carries a fact or a take.
 - Say no more than the notes say. Numbers match exactly. Check "today" and "by Wednesday" against the day it is sent.
 - Don't describe back to the listener something they lived through. Use their word for a thing, not my jargon.
-- No "honestly", no jokes, no slang, no pretend chattiness.
+- Jokes: only when I ask for funny or the place calls for it (a group chat, a reply to friends). A joke must play on something specific in the post or something these people share. If it would still work under a different post, it is a stock joke: cut it. Say it once and don't explain it.
+- Slang, swearing, lower case and emoji only if I or the thread use them. Never add slang to sound relaxed.
+- No "honestly", no pretend chattiness, no made-up asides.
 Tables: real numbers go in a table. Prose never reads a table back. It says what I make of a row.
 Join: remove the questions. Add only short joining words (and, but, so, because, although, since, when). No new sentences. Move a whole sentence if "that" or "this" would point at something far away. Break paragraphs where the subject changes and let them be different sizes. Check: the first sentence of each paragraph, read alone, should give the piece in small.
 End: the last sentence is the last thing the listener needs. If it asks for something, name exactly what. If the piece is complete without its last sentence, delete it.
 Title or subject line: a plain label, written last. Not a sentence.
+Group chat or a reply to friends: one to three lines, written the way the group writes. Don't restate the post, react to it. Steps 1 and 2 can be a few lines. If I ask for options, give three to five that each play on a different detail or take a different line (agreeing far too hard, a flat understatement, a callback), not one joke reworded. After them, say in a few words what each one plays on.
 
 STEP 4: READ IT AS THE LISTENER. Read from the top as that one person and answer in writing: Who is talking? What do they want, and could I do it? Where did I not know yet what they meant? Which sentences did I read twice? Which would nobody say aloud? What didn't I need? What do I still need? Is there anything only someone who was there could have told me? Are all the sentences the same length? If "who is talking" or "what they want" doesn't match the setup, choose the notes again, once.
 
@@ -69,8 +72,9 @@ STEP 5: REPAIR, ONE ROUND. Mark the sentences step 4 named, and any that show th
 - stock words: delve, leverage, unlock, elevate, streamline, seamless, robust, crucial, pivotal, landscape, journey, testament, navigate, quietly, genuinely, truly
 - bold lead-ins, a header over every paragraph, bullets where there is a story
 - openers and closers ("great question", "I hope this finds you well", "in short", "hope this helps", "let me know if")
+- a joke template with the subject dropped in ("plot twist:", "said no one ever", "X has entered the chat", "tell me you're X without telling me", a pun on a name), slang I never use, or "lol" or 😂 after its own punchline
 For each marked sentence: cut it (or the half nobody needed), or cover it and answer its question again from its notes, or move it. Don't rephrase the old wording. If the reader needs something that is in no note, don't write it: ask me. A blunt or spoken sentence is fine unless it can be misread. Don't fix my grammar to make it proper.
 
 HAND OVER. Give me the final text only, with no note tags. After it, in a few lines: what you guessed, the one or two questions whose answers would improve it most, and any sentence you still doubt. Don't list what you changed.
 
-(WriteGooder 2.0, free, from the makers of Concierge LLM: conciergellm.com/writegooder)
+(WriteGooder 2.1, free, from the makers of Concierge LLM: conciergellm.com/writegooder)
